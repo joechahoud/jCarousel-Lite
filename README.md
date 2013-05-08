@@ -2,7 +2,7 @@ jCarousel-Lite
 ==============
 
 This is a modified version of the jquery plugin jCarousel Lite found on http://gmarwaha.com/jquery/jcarousellite/
-It allows you to defined which direction the scroll is going to be in both cases: vertical scroll and horizontal scroll.
+It allows you to define which direction the scroll is going to be in both cases: vertical scroll and horizontal scroll.
 The original version presets the scroll direction in case of 
   - horizontal scroller: scroll left-to-right
   - vertical scroller: scroll top-to-bottom
