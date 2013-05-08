@@ -13,7 +13,7 @@ This modified version adds the possibility to set the scroll direction to:
 To set the direction of the scroller to scroll from right to left, all you have to do is add 
 "direction" attribute like so:
 
-  $(".default .jCarouselLite").jCarouselLite({
+  $(".default .jCarouselLite").jCarouselLite({  
       btnNext: ".default .next",
       btnPrev: ".default .prev",
       direction: 0
